@@ -20,12 +20,19 @@
     height: auto; /* Allow it to adapt to content */
 }
 
-.category {
+/* .category {
     margin-bottom: 10px;
     padding-left: 0;
     margin: 0 20px 0 0;
     flex-basis: calc(35% - 48px);
+} */
+.category {
+    margin-bottom: 1%; /* Adjust as needed */
+    padding-left: 0;
+    margin-right: 1%; /* Adjust as needed for spacing */
+    flex-basis: calc(25% - 1%); /* Adjust as needed */
 }
+
 
 .category-list-container {
     display: flex;

@@ -136,7 +136,7 @@ body {
     background-size: 920px;
 }
 
-h1 {
+/* h1 {
     text-align: center;
     color: #fffafa;
     padding-bottom: 0px;
@@ -162,7 +162,34 @@ h4 {
     font-size: 32px;
     font-family: impact ;
     text-align: start;
+} */
+
+h1 {
+    text-align: center;
+    color: #fffafa;
+    padding-bottom: 0; /* Remove the unnecessary 'px' unit */
+    font-size: 3rem; /* Use 'rem' for font size */
 }
+
+h2 {
+    text-align: center;
+    color: #fffafa;
+    padding-top: 0; /* Remove the unnecessary 'px' unit */
+    font-size: 1.5rem; /* Use 'rem' for font size */
+}
+
+h3 {
+    font-size: 2.125rem; /* Use 'rem' for font size */
+    font-family: impact, fantasy;
+}
+
+h4 {
+    margin: 0;
+    font-size: 2rem; /* Use 'rem' for font size */
+    font-family: impact;
+    text-align: start;
+}
+
 
 ul {
     list-style-type: none;

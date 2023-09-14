@@ -118,11 +118,7 @@
     margin-bottom: 15px;
 }
 
-h4 {
-    margin: 0;
-    font-size: 32px;
-    font-family: impact ;
-}
+
 
 p {
     margin-top: 0;
@@ -158,6 +154,14 @@ h3 {
     font-size: 53px;
     font-family: impact, fantasy;
     
+
+}
+
+h4 {
+    margin: 0;
+    font-size: 32px;
+    font-family: impact ;
+    text-align: left;
 }
 
 ul {

@@ -185,7 +185,7 @@ h3 {
 
 h4 {
     margin: 0;
-    font-size: 2rem; /* Use 'rem' for font size */
+    font-size: 1rem; /* Use 'rem' for font size */
     font-family: impact;
     text-align: start;
 }

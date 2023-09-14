@@ -48,11 +48,19 @@
     width: 85%; /* Use a percentage for flexible width */
 }
 
-.item-image {
+/* .item-image {
     width: 100%;
     height: 270px;
     margin-top: px;
     border-width: 2px;
+    border-style: solid;
+    border-color: black;
+} */
+.item-image {
+    width: 100%; /* Use a percentage for flexible width */
+    height: auto; /* Allow it to adapt to content */
+    margin-top: 1rem; /* Use a relative unit like 'rem' for spacing */
+    border-width: 0.125rem; /* Use a relative unit like 'rem' for border width */
     border-style: solid;
     border-color: black;
 }

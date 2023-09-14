@@ -6,15 +6,19 @@
    
 }
 
-.kokito-container {
+/* .kokito-container {
     padding-bottom: 10px;
     width: 1300px;
     height: 300px;
    
     
 
+} */
+.kokito-container {
+    padding-bottom: 1%; /* Adjust as needed with a relative unit */
+    width: 90%; /* Use a percentage for flexible width */
+    height: auto; /* Allow it to adapt to content */
 }
-
 
 .category {
     margin-bottom: 10px;

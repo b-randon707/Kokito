@@ -128,12 +128,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: lightyellow;
-    background-image: url("menu-pics/kokitoKoy.png");
+    background-color: lightgray;
+    /* background-image: url("menu-pics/kokitoKoy.png");
     background-repeat: no-repeat;
     background-position: right;
     background-attachment: scroll;
-    background-size: 920px;
+    background-size: 920px; */
 }
 
 /* h1 {

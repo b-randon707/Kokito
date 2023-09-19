@@ -132,7 +132,7 @@ body {
     background-image: url("menu-pics/kokitoKoy.png");
     background-repeat: no-repeat;
     background-position: right;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-size: 920px;
 }
 

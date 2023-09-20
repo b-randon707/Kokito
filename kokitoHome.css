@@ -128,7 +128,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: lightgray;
+    background-color: lightgrey; 
     /* background-image: url("menu-pics/kokitoKoy.png");
     background-repeat: no-repeat;
     background-position: right;
@@ -181,13 +181,15 @@ h2 {
 h3 {
     font-size: 2.125rem; /* Use 'rem' for font size */
     font-family: impact, fantasy;
+    
 }
 
 h4 {
     margin: 0;
-    font-size: 1rem; /* Use 'rem' for font size */
+    font-size: 1.4rem; /* Use 'rem' for font size */
     font-family: impact;
     text-align: start;
+    color: black; 
 }
 
 

@@ -102,6 +102,26 @@
     flex-basis: calc(100% - 10px);
      
 }
+.item-list-riceless{
+    display: flex;
+    flex-direction: row;
+    margin: 0 20px 0 0;
+    gap: 12px;
+    flex-basis: calc(33% - 18px);     
+}
+.item-wrapper-riceless {
+    display: flex;
+    flex: 1; 
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    padding: 10px; 
+    height: 360px; 
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 10px; 
+}
 .item-list {
     display: flex;
     flex-direction: column;

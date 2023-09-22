@@ -58,7 +58,7 @@
 } */
 .item-image {
     width: 100%; /* Use a percentage for flexible width */
-    height: 75%; /* Allow it to adapt to content */
+    height: 65%; /* Allow it to adapt to content */
     margin-top: 1rem; /* Use a relative unit like 'rem' for spacing */
     border-width: 0.125rem; /* Use a relative unit like 'rem' for border width */
     border-style: solid;
@@ -72,7 +72,7 @@
     background-color: white;
     padding: 10px; 
     height: 360px; 
-    border-width: 4px;
+    border-width: 3px;
     border-style: solid;
     border-color: black;
     margin-bottom: 10px; 
@@ -85,7 +85,7 @@
     background-color: white;
     padding: 10px; 
     height: 360px; 
-    border-width: 4px;
+    border-width: 3px;
     border-style: solid;
     border-color: black;
     margin-bottom: 10px; 

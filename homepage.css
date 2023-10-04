@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 2%;
+    margin: 0;
+    background-color: gainsboro;
+  }
+  
+  .kokito-container {
+    text-align: center;
+  }
+  
+  .menu-banner {
+    
+    height: auto;
+  }
+  
+  .navbar {
+    background-color: transparent; /* Set the navbar background to transparent */
+    color: white;
+    border: none; /* Remove border */
+  }
+  
+  .navigation {
+    padding: 1.5% 3%;
+    text-align: left;
+  }
+  
+  .navigation button {
+    padding: 2.5% 3%;
+    margin-right: 2%;
+    cursor: pointer;
+    /* Remove border for the buttons */
+     /* Make buttons oval-shaped */
+     
+    font-size: 20px;
+    background: linear-gradient(to right, gainsboro, silver)
+  }
+  
+  .navigation button:last-child {
+    margin-right: 0;
+  }
+  
+  /* Apply grayish and white coloring to the buttons */
+  .navigation button:nth-child(odd) {
+    background-color: white; /* Grayish color for odd-indexed buttons */
+    color: black;
+  }
+  
+  .navigation button:nth-child(even) {
+    background-color: white; /* White color for even-indexed buttons */
+    color: black;
+  }
+  
+  #content {
+    padding: 2%;
+  }
+  

@@ -69,20 +69,20 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: white;
-    padding: 10px; 
+    background-color: whitesmoke;
+    padding:0; 
     height: 360px; 
     border-width: 3px;
     border-style: solid;
     border-color: black;
-    margin-bottom: 10px; 
+    margin: 0;
 }
 .item-wrapper-chinese {
     display: flex;
     flex: 1; 
     flex-direction: column;
     align-items: center;
-    background-color: white;
+    background-color: whitesmoke;
     padding: 10px; 
     height: 360px; 
     border-width: 3px;
@@ -104,17 +104,17 @@
 }
 .item-list-riceless{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin: 0 20px 0 0;
     gap: 12px;
-    flex-basis: calc(33% - 18px);     
+    flex-basis: calc(40% - 18px);     
 }
 .item-wrapper-riceless {
     display: flex;
     flex: 1; 
     flex-direction: column;
     align-items: center;
-    background-color: white;
+    background-color: whitesmoke;
     padding: 10px; 
     height: 360px; 
     border-width: 3px;
@@ -148,7 +148,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: lightgrey; 
+    background-color: rgb(232, 230, 230); 
     /* background-image: url("menu-pics/kokitoKoy.png");
     background-repeat: no-repeat;
     background-position: right;
@@ -156,33 +156,6 @@ body {
     background-size: 920px; */
 }
 
-/* h1 {
-    text-align: center;
-    color: #fffafa;
-    padding-bottom: 0px;
-    font-size: 55px;
-}
-
-h2 {
-    text-align: center;
-    color: #fffafa;
-    padding-top: 0px;
-    font-size: medium;
-}
-
-h3 {
-    font-size: 53px;
-    font-family: impact, fantasy;
-    
-
-}
-
-h4 {
-    margin: 0;
-    font-size: 32px;
-    font-family: impact ;
-    text-align: start;
-} */
 
 h1 {
     text-align: center;

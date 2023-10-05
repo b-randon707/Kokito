@@ -1,10 +1,16 @@
-.KokitoTitle {
+/* .KokitoTitle {
     display: block;
     margin-left: auto;
     width:100%; 
     height:200%;
    
-}
+} */
+.KokitoTitle {
+    display: block;
+    margin-left: left;
+   
+    
+   
 
 
 .kokito-container {

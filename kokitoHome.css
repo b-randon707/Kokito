@@ -40,7 +40,8 @@
     height: 65%; /* Allow it to adapt to content */
     margin-top: 0; /* Use a relative unit like 'rem' for spacing */
     border-width: 0.125rem; /* Use a relative unit like 'rem' for border width */
-    border-style: solid;
+    border-bottom: solid; 
+    
     border-color: black;
 }
 

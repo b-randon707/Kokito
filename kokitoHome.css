@@ -6,7 +6,7 @@
    
 } */
 
-   
+
 
 
 .kokito-container {
@@ -49,7 +49,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: whitesmoke;
+    background-color: silver;
     padding:0; 
     height: 360px; 
     border-width: 3px;
@@ -62,7 +62,7 @@
     flex: 1; 
     flex-direction: column;
     align-items: center;
-    background-color: whitesmoke;
+    background-color: silver;
     padding: 0; 
     height: 360px; 
     border-width: 3px;
@@ -94,7 +94,7 @@
     flex: 1; 
     flex-direction: column;
     align-items: center;
-    background-color: whitesmoke;
+    background-color: silver;
     padding: 0; 
     height: 360px; 
     border-width: 3px;
@@ -120,9 +120,7 @@
 
 
 
-p {
-    margin-top: 0;
-}
+
 
 body {
     font-family: Arial, sans-serif;
@@ -157,14 +155,41 @@ h3 {
     
 }
 
-h4 {
+.item-details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align content to the start (left) */
+}
+
+.item-details h4  {
     margin: 0;
     font-size: 1.4rem; /* Use 'rem' for font size */
     font-family: impact;
-    text-align: start;
+    text-align: center;
+    color: black;
+    width: 100%;
+}
+.item-details p {
+    margin: 0;
+    font-size: 1.2rem; /* Use 'rem' for font size */
+    font-family: Times New Roman;
+    padding-left: .1em; 
+    text-align: center;
+    color: black;
+    width: 100%;
+
+}
+/* h4 {
+    margin: 0;
+    font-size: 1.4rem; 
+    font-family: impact;
+    text-align: left;
     color: black; 
 }
-
+p {
+    margin-top: 0;
+    text-align: start;
+} */
 
 ul {
     list-style-type: none;

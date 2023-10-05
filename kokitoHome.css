@@ -11,7 +11,7 @@
 
 .kokito-container {
     padding-bottom: 1%; /* Adjust as needed with a relative unit */
-    width: 90%; /* Use a percentage for flexible width */
+     /* Use a percentage for flexible width */
     height: auto; /* Allow it to adapt to content */
 }
 

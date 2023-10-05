@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     padding: 2%;
     margin: 0;
-    background-color: gainsboro;
+    background: linear-gradient(to right, gainsboro, silver, grey); 
   }
   
   .kokito-container {

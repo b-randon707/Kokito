@@ -7,10 +7,13 @@ body {
   
   .kokito-container {
     text-align: left;
+    padding-bottom: 1%; /* Adjust as needed with a relative unit */
+     /* Use a percentage for flexible width */
+    height: auto;
   }
   
   .menu-banner {
-    
+    width: 80%; 
     height: auto;
   }
   

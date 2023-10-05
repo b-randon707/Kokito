@@ -6,7 +6,7 @@ body {
   }
   
   .kokito-container {
-    text-align: center;
+    text-align: left;
   }
   
   .menu-banner {
@@ -21,7 +21,7 @@ body {
   }
   
   .navigation {
-    padding: 1.5% 3%;
+    padding: 1.5% 1%;
     text-align: left;
   }
   

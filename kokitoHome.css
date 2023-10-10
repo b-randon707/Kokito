@@ -31,7 +31,7 @@
 
 .menu-banner {
     height: auto; /* Allow it to adapt to content */
-    width: 50% /* Use a percentage for flexible width */
+    width: 33% /* Use a percentage for flexible width */
 }
 
 
@@ -127,7 +127,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 2%;
-    background: linear-gradient(to right, whitesmoke, gainsboro, silver, grey); 
+    background: linear-gradient(to right, gainsboro, silver, grey); 
     /* background-image: url("menu-pics/kokitoKoy.png");
     background-repeat: no-repeat;
     background-position: right;

@@ -31,7 +31,7 @@
 
 .menu-banner {
     height: auto; /* Allow it to adapt to content */
-    width: 33% /* Use a percentage for flexible width */
+    width: 45% /* Use a percentage for flexible width */
 }
 
 
@@ -181,17 +181,7 @@ h3 {
     width: 100%;
 
 }
-/* h4 {
-    margin: 0;
-    font-size: 1.4rem; 
-    font-family: impact;
-    text-align: left;
-    color: black; 
-}
-p {
-    margin-top: 0;
-    text-align: start;
-} */
+
 
 ul {
     list-style-type: none;
@@ -225,14 +215,11 @@ li {
   }
   
   .navigation button {
-    padding: 2.5% 3%;
+    padding: 0.7% 3%;
     margin-right: 2%;
     cursor: pointer;
-    /* Remove border for the buttons */
-     /* Make buttons oval-shaped */
-     
-    font-size: 20px;
-    background: linear-gradient(to right, gainsboro, silver);
+    font-size: 22px;
+    background: linear-gradient(to right, silver, white);
   }
   
   .navigation button:last-child {

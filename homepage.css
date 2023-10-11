@@ -13,7 +13,7 @@ body {
   }
   
   .menu-banner {
-    width: 33%; 
+    width: 45%; 
     height: auto;
   }
   
@@ -68,6 +68,10 @@ body {
   max-height: 590px;
   overflow: hidden;
   position: relative;
+  border : solid;
+  border-color: ghostwhite;
+  border-width: 3px; 
+  border-radius: 1%; 
 }
 
 .slide {

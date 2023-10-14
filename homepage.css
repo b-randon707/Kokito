@@ -78,9 +78,8 @@ body {
   display: none;
 }
 
-.slide img {
-  width: 100%;
-  height: auto;
+.slideImage{
+  display: flex; 
 }
   
   .active {
